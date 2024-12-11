@@ -6,7 +6,6 @@ A user authentication system built with Node.js, Express, and MongoDB. The syste
 ## Features
 - User Registration (`/api/auth/register`)
 - User Login (`/api/auth/login`) with JWT authentication
-- Password Reset Request (`/api/auth/reset-password`)
 - Password Reset Action (`/api/auth/reset-password`)
 
 ## Installation
