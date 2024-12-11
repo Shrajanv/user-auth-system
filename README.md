@@ -1,7 +1,7 @@
 # User Authentication System
 
 ## Description
-A user authentication system built with Node.js, Express, and MongoDB. The system supports user registration, login with JWT authentication, and password reset functionality.
+A user authentication system built with Node.js, Express, and MongoDB(compass). The system supports user registration, login with JWT authentication, and password reset functionality.
 
 ## Features
 - User Registration (`/api/auth/register`)
